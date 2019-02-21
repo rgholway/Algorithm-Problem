@@ -1,6 +1,5 @@
 b = [1, 3, 5, 4, 513, 7, 2, 1, 8]
 array = b.sort
-puts array
 i = 0
 numbers = Hash.new
 20.times do
