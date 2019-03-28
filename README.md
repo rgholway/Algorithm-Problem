@@ -12,4 +12,5 @@ During the test I was disappointed by the fact that I could not find the right a
 
 I created a binary search algorithm in Ruby after the readings on Codility's site. This binary search finds a selected item in an array in O(log n) time complexity this is a vast improvement from simply using normal search which takes O(n) time complexity.
 
-I then created a leaderboard class that creates a leaderboard with players and scores. 
+I then created a leaderboard class that creates a leaderboard with players and scores.
+The second leaderboard introduces expiring dates for scores and a more complex data structure. 
